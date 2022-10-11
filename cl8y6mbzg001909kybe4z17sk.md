@@ -1,1 +1,141 @@
-IyMgR1NvQyAyMDIyIEZpbmFsIFN1Ym1pc3Npb246IFJURU1TIHBvcnQgZm9yIFJhc3BiZXJyeSBwaSA0IEFBcmNoNjQKCiMjIyBIZXkgRXZlcnlvbmUsCklmIHlvdSdyZSByZWFkaW5nIHRoaXMsIFRoYXQgbWVhbnMgSSd2ZSBjb21wbGV0ZWQgbXkgR1NvQyBQcm9qZWN0LCBXb29ob28uCkhlcmUsIEknbSBnb25uYSBkZXNjcmliZSB3aGF0IGkndmUgZG9uZSBpbiB0aGUgcGFzdCB3ZWVrcy4gKG5vdCBtdWNoLCBidXQgc29tZSBhZnRlcmFsbCBJIGV4dGVuZGVkIG15IHRpbWVsaW5lIGZvciBhIGJpdCA7KSBTbyBsZXRzIGdldCBzdGFydGVkLgoKIyMjIFByb2plY3QgZ29hbAotIFRvIGFkZCBhIG5ldyBhYXJjaDY0IEJTUCB0byB0aGUgUlRFTVMgZmFtaWx5LgotIE1ha2luZyBzdXJlIHRoZSBCU1AgY2FuIHBlcmZvcm0gdmFyaW91cyB0ZXN0IGFuZCBiZW5jaG1hcmtzCgojIyMgUmVwb3M6CgotIFRoaXMgaXMgd2hlcmUgSSd2ZSBkb25lIGFsbCB0aGUgd29yazogCmh0dHBzOi8vR2l0aHViLmNvbS8weG5vb3IvcnRlbXMvdHJlZS9ub29yLWRldgoKLSBUaGlzIGlzIHdoZXJlIEkndmUgd3JpdHRlbiB0aGUgZG9jdW1lbnRhdGlvbjoKaHR0cHM6Ly9HaXRodWIuY29tLzB4Tm9vci9ydGVtcy1kb2NzL3RyZWUvbm9vci1kZXYKCiMjIyBMaXN0IG9mIHByb2JsZW1zIEkgZmFjZWQ6CgpJIHRoaW5rIHRoaXMgY29tZXMgZmlyc3QgaGVyZSBiZWNhdXNlIGJlZm9yZSB0aGUgZGlzY3Vzc2lvbiBvZiB3aGF0IGkndmUgZG9uZSBiZWNhdXNlIHByb2JsZW1zIGhhcyBiZXR0ZXIgZGV0YWlsIG9mIHByb2dyZXNzIHRoYW4gdGhlIGFjdHVhbCB3b3JrLgoKIyMjIyBGaW5kaW5nIFBlcmlwaGVyYWwgYWRkcmVzczoKSW4gdGhlIERvY3VtZW50YXRpb24gb2YgQkNNMjcxMSwgdGhlIGFkZHJlc3Mgd2hpY2ggdGhleSBoYXZlIGdpdmVuIGlzIGJhc2VkIG9uIHdoZW4gdGhlIHJhc3BiZXJyeSBwaSBpcyBvbiBoaWdoIHBlcmlwaGVyYWwgbW9kZSBidXQgSSByZXF1aXJlZCBsb3cgcGVyaXBoZXJhbCBtb2RlIGFkZHJlc3MgaW5zdGVhZC4gU28gdGhhdCB3YXMgYSBiaXQgbWVzc3kgcGFydC4KCiMjIyMgQWNjZXNzaW5nIENQVSByZWdpc3RlcnM6ClRoaXMgd2FzIGEgbG90IHRyb3VibGVzb21lIGFzIHRoaXMgd2FzIGp1c3QgdGhlIGJlZ2lubmluZyBmb3IgdGhlIGRldmVsb3BtZW50IG9mIHRoZSBCU1Agc28gbm8gY29uc29sZSBvdXRwdXQgd2FzIGF2YWlsYWJsZS4gQlVUIHRoZW4gSlRBRyBhbmQgcnRlbXMtZXhjZXB0aW9uLWZyYW1lIGNhbWUgdG8gdGhlIHJlc2N1ZS4gSXQgcHJpbnRlZCBvdXQgZXZlcnkgcmVnaXN0ZXIgc3RhdGUgdG8gdGhlIEdEQi4KCiMjIyMgQnJpbmdpbmcgdXAgU01QCgpBbGFzLCBUaGlzIGlzIG5vdCBpbXBsZW1lbnRlZCB5ZXQgZXZlbiB0aG91Z2ggSSd2ZSBsaXN0ZWQgdGhpcyB0byBkbyB0aGlzIGluIHRoZSBwcm9wb3NhbC4gVGhlIHByb2JsZW0gd2l0aCBpdCB3YXMgdGhlIEFzc2VtYmx5IGNvZGUuIEknbSBmYWlybHkgbm92aWNlIHRvIHRoZSBhc3NlbWJseS4gVEYtQSBtYXliZSB1c2VkIHRvIGJyaW5nIFNNUCBzdXBwb3J0IGJ1dCBJJ20gbm90IHN1cmUgYXMgb2Ygbm93LiAKCgojIyMgRGV0YWlscyBvZiB3b3JrIEkndmUgZG9uZToKCiMjIyMgTGlua2VyIHNlY3Rpb246ClRoaXMgd2FzIGp1c3QgYSBsaXR0bGUgdG8gaGFyZCB0byBmaW5kIHRoZSBjb3JyZWN0IGFkZHJlc3MgZnJvbSB3aGVyZSB0aGUga2VybmVsIHN0YXJ0cyBpbiB0aGUgcmFzcGJlcnJ5IHBpIDQsIGJ1dCBJJ20gZ2xhZCB0aGVyZSB3YXMgYSBndXkgd2hvIGhhZCB0aGUgc2FtZSBkb3VidCBqdXN0IHNvbWUgbW9udGhzIGFnby4gU28gaGVyZSdzIHRoZSBhbnN3ZXIuCgotIDB4ODAwMCBmb3IgMzItYml0IGtlcm5lbHMgKCJhcm1fNjRiaXQ9MSIgaW4gY29uZmlnLnR4dCBub3Qgc2V0KQotIDB4ODAwMDAgZm9yIG9sZGVyIDY0LWJpdCBrZXJuZWxzICgiYXJtXzY0Yml0PTEiIHNldCwgZmxhdCBpbWFnZSkKLSAweDIwMDAwMCBmb3IgbmV3ZXIgNjQtYml0IGtlcm5lbHMgKCJhcm1fNjRiaXQ9MSIgc2V0LCBnemlwJ2VkIExpbnV4IEFSTTY0IGltYWdlKQotIDB4MCBpZiAia2VybmVsX29sZD0xIiBzZXQKCiMjIyMgQ29uc29sZSBEcml2ZXI6CkkndmUgdXNlZCB0aGUgZXhpc3RpbmcgQVJNIFBMMDExIGRyaXZlcnMsIG5vdGhpbmcgbXVjaCB0byBkbyBoZXJlLiBOb3RlIHRoYXQgTWluaS11YXJ0IGlzIG5vdCBzdXBwb3J0ZWQgYXMgb2Ygbm93LgoKCiMjIyMgVGltZXI6CkFSTSBnZW5lcmljIHRpbWVyLCBub3RoaW5nIHRvIGRvIGhlcmUgdG9vCgojIyMjIE1NVSBTZWN0aW9uOgpUaGV5IGFyZSBjdXJyZW50bHkgY29tcG9zZWQgb2YgUGVyaXBoZXJhbCBhZGRyZXNzLCBsb2NhbCBhcm0gcmVnaXN0ZXIsIGFuZCBHSUMtNDAwLiAKCiMjIyBUZXN0aW5nIHRoZSB0ZXN0c3VpdGVzIGV4YW1wbGVzOgpMZXQncyB0ZXN0IHNvbWUgYmVuY2htYXJrcyA6KQoKIyMjIyBMaW5wYWNrIApgYGAKLi4uCm5vcm0gcmVzaWQgICAgICByZXNpZCAgICAgICAgICAgbWFjaGVwICAgICAgICAgeFswXS0xICAgICAgICAgIHhbbi0xXS0xCiAgIDEuOSAgICA4LjQ2Nzc4NDk5ZS0xNCAgIDIuMjIwNDQ2MDVlLTE2ICAtMS4xMTc5OTQ1OWUtMTMgIC05LjYwMzQyOTE2ZS0xNAoKVGltZXMgYXJlIHJlcG9ydGVkIGZvciBtYXRyaWNlcyBvZiBvcmRlciAgICAgICAgICAxMDAKMSBwYXNzIHRpbWVzIGZvciBhcnJheSB3aXRoIGxlYWRpbmcgZGltZW5zaW9uIG9mICAyMDEKCiAgICAgIGRnZWZhICAgICAgZGdlc2wgICAgICB0b3RhbCAgICAgTWZsb3BzICAgICAgIHVuaXQgICAgICByYXRpbwogICAgMC4wMDE5NSAgICAwLjAwMDA2ICAgIDAuMDAyMDIgICAgIDM0MC42MCAgICAgMC4wMDU5ICAgICAwLjAzNjAKCkNhbGN1bGF0aW5nIG1hdGdlbiBvdmVyaGVhZAogICAgICAgIDEwIHRpbWVzICAgMC4wMCBzZWNvbmRzCiAgICAgICAxMDAgdGltZXMgICAwLjAyIHNlY29uZHMKICAgICAgMTAwMCB0aW1lcyAgIDAuMTYgc2Vjb25kcwogICAgICAyMDAwIHRpbWVzICAgMC4zMiBzZWNvbmRzCiAgICAgIDQwMDAgdGltZXMgICAwLjYzIHNlY29uZHMKICAgICAgODAwMCB0aW1lcyAgIDEuMjYgc2Vjb25kcwogICAgIDE2MDAwIHRpbWVzICAgMi41MyBzZWNvbmRzCiAgICAgMzIwMDAgdGltZXMgICA1LjA1IHNlY29uZHMKT3ZlcmhlYWQgZm9yIDEgbWF0Z2VuICAgICAgMC4wMDAxNiBzZWNvbmRzCgpDYWxjdWxhdGluZyBtYXRnZW4vZGdlZmEgcGFzc2VzIGZvciA1IHNlY29uZHMKICAgICAgICAxMCB0aW1lcyAgIDAuMDIgc2Vjb25kcwogICAgICAgMTAwIHRpbWVzICAgMC4yMSBzZWNvbmRzCiAgICAgICAyMDAgdGltZXMgICAwLjQyIHNlY29uZHMKICAgICAgIDQwMCB0aW1lcyAgIDAuODQgc2Vjb25kcwogICAgICAgODAwIHRpbWVzICAgMS42OCBzZWNvbmRzCiAgICAgIDE2MDAgdGltZXMgICAzLjM3IHNlY29uZHMKICAgICAgMzIwMCB0aW1lcyAgIDYuNzQgc2Vjb25kcwpQYXNzZXMgdXNlZCAgICAgICAyMzczIAoKVGltZXMgZm9yIGFycmF5IHdpdGggbGVhZGluZyBkaW1lbnNpb24gb2YgMjAxCgogICAgICBkZ2VmYSAgICAgIGRnZXNsICAgICAgdG90YWwgICAgIE1mbG9wcyAgICAgICB1bml0ICAgICAgcmF0aW8KICAgIDAuMDAxOTUgICAgMC4wMDAwNiAgICAwLjAwMjAxICAgICAzNDEuNzMgICAgIDAuMDA1OSAgICAgMC4wMzU5CiAgICAwLjAwMTk1ICAgIDAuMDAwMDYgICAgMC4wMDIwMSAgICAgMzQxLjc0ICAgICAwLjAwNTkgICAgIDAuMDM1OQogICAgMC4wMDE5NSAgICAwLjAwMDA2ICAgIDAuMDAyMDEgICAgIDM0MS43MyAgICAgMC4wMDU5ICAgICAwLjAzNTkKICAgIDAuMDAxOTUgICAgMC4wMDAwNiAgICAwLjAwMjAxICAgICAzNDEuNzIgICAgIDAuMDA1OSAgICAgMC4wMzU5CiAgICAwLjAwMTk1ICAgIDAuMDAwMDYgICAgMC4wMDIwMSAgICAgMzQxLjcyICAgICAwLjAwNTkgICAgIDAuMDM1OQpBdmVyYWdlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDM0MS43MwoKQ2FsY3VsYXRpbmcgbWF0Z2VuMiBvdmVyaGVhZApPdmVyaGVhZCBmb3IgMSBtYXRnZW4gICAgICAwLjAwMDE2IHNlY29uZHMKClRpbWVzIGZvciBhcnJheSB3aXRoIGxlYWRpbmcgZGltZW5zaW9uIG9mIDIwMAoKICAgICAgZGdlZmEgICAgICBkZ2VzbCAgICAgIHRvdGFsICAgICBNZmxvcHMgICAgICAgdW5pdCAgICAgIHJhdGlvCiAgICAwLjAwMTk0ICAgIDAuMDAwMDYgICAgMC4wMDIwMCAgICAgMzQyLjYyICAgICAwLjAwNTggICAgIDAuMDM1OAogICAgMC4wMDE5NCAgICAwLjAwMDA2ICAgIDAuMDAyMDAgICAgIDM0Mi42NCAgICAgMC4wMDU4ICAgICAwLjAzNTgKICAgIDAuMDAxOTQgICAgMC4wMDAwNiAgICAwLjAwMjAwICAgICAzNDIuNjQgICAgIDAuMDA1OCAgICAgMC4wMzU4CiAgICAwLjAwMTk0ICAgIDAuMDAwMDYgICAgMC4wMDIwMCAgICAgMzQyLjYyICAgICAwLjAwNTggICAgIDAuMDM1OAogICAgMC4wMDE5NCAgICAwLjAwMDA2ICAgIDAuMDAyMDAgICAgIDM0Mi42MyAgICAgMC4wMDU4ICAgICAwLjAzNTgKQXZlcmFnZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAzNDIuNjMKClJvbGxlZCBEb3VibGUgIFByZWNpc2lvbiAgICAgIDM0MS43MyBNZmxvcHMgCgpgYGAgCgoKCiMjIyMgZGhyeXN0b25lCmBgYAouLi4KTWljcm9zZWNvbmRzIGZvciBvbmUgcnVuIHRocm91Z2ggRGhyeXN0b25lOiAgICAwLjIgCkRocnlzdG9uZXMgcGVyIFNlY29uZDogICAgICAgICAgICAgICAgICAgICAgNjM4MTQwMi4yIApETUlQUzogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDM2MzEuOTkgCmBgYAoKIyMjIyBXaGVsc3RvbmUKYGBgCi4uLi4KTG9vcHM6IDEwMDAwLCBJdGVyYXRpb25zOiAxLCBEdXJhdGlvbjogMC4zMzcxNjggc2VjLgpDIENvbnZlcnRlZCBEb3VibGUgUHJlY2lzaW9uIFdoZXRzdG9uZXM6IDI5NjUuOSBNSVBTCgoKYGBgCgoKCiMjIyBXaGF04oCZcyBsZWZ0IHRvIGRvClRoZSBwcm9qZWN0IGlzIGNvbXBsZXRlIGV2ZW4gdGhvZ2ggaXRzIGp1c3QgYSBiYXJlIHN0YXJ0IHdpdGgganVzdCBtaW5pbXVtIHRoaW5ncyByZXF1aXJlIHRvIGludGVyZmFjZSB3aXRoIHRoZSBTb2MuIE1hbnkgb2YgZmVhdHVyZXMgYXJlIHN0aWxsIHJlbWFpbmluZyBsaWtlIEdQSU8sIFNQSSwgSTJDLCBldGhlcm5ldCwgVVNCIGFuZCBtYW55IG1vcmUgdG8gY291bnQuCgoK
+# GSoC 2022 Final Submission: RTEMS port for Raspberry pi 4 AArch64
+
+### Hey Everyone,
+If you're reading this, That means I've completed my GSoC Project, Woohoo.
+Here, I'm gonna describe what i've done in the past weeks. (not much, but some afterall I extended my timeline for a bit ;) So lets get started.
+
+### Project goal
+- To add a new aarch64 BSP to the RTEMS family.
+- Making sure the BSP can perform various test and benchmarks
+
+### Repos:
+
+- This is where I've done all the work: 
+https://Github.com/0xnoor/rtems/tree/noor-dev
+
+- This is where I've written the documentation:
+https://Github.com/0xNoor/rtems-docs/tree/noor-dev
+
+### List of problems I faced:
+
+I think this comes first here because before the discussion of what i've done because problems has better detail of progress than the actual work.
+
+#### Finding Peripheral address:
+In the Documentation of BCM2711, the address which they have given is based on when the raspberry pi is on high peripheral mode but I required low peripheral mode address instead. So that was a bit messy part.
+
+#### Accessing CPU registers:
+This was a lot troublesome as this was just the beginning for the development of the BSP so no console output was available. BUT then JTAG and rtems-exception-frame came to the rescue. It printed out every register state to the GDB.
+
+#### Bringing up SMP
+
+Alas, This is not implemented yet even though I've listed this to do this in the proposal. The problem with it was the Assembly code. I'm fairly novice to the assembly. TF-A maybe used to bring SMP support but I'm not sure as of now. 
+
+
+### Details of work I've done:
+
+#### Linker section:
+This was just a little to hard to find the correct address from where the kernel starts in the raspberry pi 4, but I'm glad there was a guy who had the same doubt just some months ago. So here's the answer.
+
+- 0x8000 for 32-bit kernels ("arm_64bit=1" in config.txt not set)
+- 0x80000 for older 64-bit kernels ("arm_64bit=1" set, flat image)
+- 0x200000 for newer 64-bit kernels ("arm_64bit=1" set, gzip'ed Linux ARM64 image)
+- 0x0 if "kernel_old=1" set
+
+#### Console Driver:
+I've used the existing ARM PL011 drivers, nothing much to do here. Note that Mini-uart is not supported as of now.
+
+
+#### Timer:
+ARM generic timer, nothing to do here too
+
+#### MMU Section:
+They are currently composed of Peripheral address, local arm register, and GIC-400. 
+
+### Testing the testsuites examples:
+Let's test some benchmarks :)
+
+#### Linpack 
+```
+...
+norm resid      resid           machep         x[0]-1          x[n-1]-1
+   1.9    8.46778499e-14   2.22044605e-16  -1.11799459e-13  -9.60342916e-14
+
+Times are reported for matrices of order          100
+1 pass times for array with leading dimension of  201
+
+      dgefa      dgesl      total     Mflops       unit      ratio
+    0.00195    0.00006    0.00202     340.60     0.0059     0.0360
+
+Calculating matgen overhead
+        10 times   0.00 seconds
+       100 times   0.02 seconds
+      1000 times   0.16 seconds
+      2000 times   0.32 seconds
+      4000 times   0.63 seconds
+      8000 times   1.26 seconds
+     16000 times   2.53 seconds
+     32000 times   5.05 seconds
+Overhead for 1 matgen      0.00016 seconds
+
+Calculating matgen/dgefa passes for 5 seconds
+        10 times   0.02 seconds
+       100 times   0.21 seconds
+       200 times   0.42 seconds
+       400 times   0.84 seconds
+       800 times   1.68 seconds
+      1600 times   3.37 seconds
+      3200 times   6.74 seconds
+Passes used       2373 
+
+Times for array with leading dimension of 201
+
+      dgefa      dgesl      total     Mflops       unit      ratio
+    0.00195    0.00006    0.00201     341.73     0.0059     0.0359
+    0.00195    0.00006    0.00201     341.74     0.0059     0.0359
+    0.00195    0.00006    0.00201     341.73     0.0059     0.0359
+    0.00195    0.00006    0.00201     341.72     0.0059     0.0359
+    0.00195    0.00006    0.00201     341.72     0.0059     0.0359
+Average                               341.73
+
+Calculating matgen2 overhead
+Overhead for 1 matgen      0.00016 seconds
+
+Times for array with leading dimension of 200
+
+      dgefa      dgesl      total     Mflops       unit      ratio
+    0.00194    0.00006    0.00200     342.62     0.0058     0.0358
+    0.00194    0.00006    0.00200     342.64     0.0058     0.0358
+    0.00194    0.00006    0.00200     342.64     0.0058     0.0358
+    0.00194    0.00006    0.00200     342.62     0.0058     0.0358
+    0.00194    0.00006    0.00200     342.63     0.0058     0.0358
+Average                               342.63
+
+Rolled Double  Precision      341.73 Mflops 
+
+``` 
+
+
+
+#### dhrystone
+```
+...
+Microseconds for one run through Dhrystone:    0.2 
+Dhrystones per Second:                      6381402.2 
+DMIPS:                                      3631.99 
+```
+
+#### Whelstone
+```
+....
+Loops: 10000, Iterations: 1, Duration: 0.337168 sec.
+C Converted Double Precision Whetstones: 2965.9 MIPS
+
+
+```
+
+
+
+### What’s left to do
+The project is complete even thogh its just a bare start with just minimum things require to interface with the Soc. Many of features are still remaining like GPIO, SPI, I2C, ethernet, USB and many more to count.
+
+
