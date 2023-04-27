@@ -1,4 +1,20 @@
-## Setup OpenOCD with JTAG + UART on raspberry pi 4 using FT232H
+---
+title: "Setup OpenOCD with JTAG + UART on raspberry pi 4 using FT232H"
+seoTitle: "Jtag ft232h raspberrypi openocd gdb debug serial ch340g ftdi adafruit"
+seoDescription: "How to use ocd
+How to set up ft232h
+Bare metal raspberry pi 4b
+Linux on raspberry pi 4
+How to create os for Raspberry pi
+jtag raspberry pi 4b
+Swd raspberry"
+datePublished: Wed Jun 08 2022 08:46:10 GMT+0000 (Coordinated Universal Time)
+cuid: cl45cjhwa00h5alnv4mz49j6h
+slug: setup-openocd-with-jtag-uart-on-raspberry-pi-4-using-ft232h
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1654675982205/s5a7os9Xd.jpg
+tags: cpp, c, linux, raspberry-pi, openocd
+
+---
 
 Hello everyone. On today's blog, I'll tell you about how to setup JTAG + Serial connection on the Raspberry pi 4B and configure OpenOCD to debug the RPi4b. Be sure to follow every line or you might end in problem ;)
 
