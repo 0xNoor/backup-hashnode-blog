@@ -1,4 +1,11 @@
-# GSoC 2022 Final Submission: RTEMS port for Raspberry pi 4 AArch64
+---
+title: "GSoC 2022 Final Submission: RTEMS port for Raspberry pi 4 AArch64"
+datePublished: Fri Oct 07 2022 07:44:34 GMT+0000 (Coordinated Universal Time)
+cuid: cl8y6mbzg001909kybe4z17sk
+slug: gsoc-2022-final-submission
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1665127394652/nWN48yqhB.jpg
+
+---
 
 ### Hey Everyone,
 If you're reading this, That means I've completed my GSoC Project, Woohoo.
