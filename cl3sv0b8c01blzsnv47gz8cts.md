@@ -1,4 +1,13 @@
-## GSoC with RTEMS first blog
+---
+title: "GSoC with RTEMS first blog"
+seoTitle: "linux google-summer-of-code kernel rtems GSoC arch  SoC micro-control"
+datePublished: Mon May 30 2022 15:02:08 GMT+0000 (Coordinated Universal Time)
+cuid: cl3sv0b8c01blzsnv47gz8cts
+slug: gsoc-with-rtems-first-blog
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1653716570671/7bMYZjNS8.png
+tags: linux, gsoc, os, raspberry-pi, embedded
+
+---
 
 Hello to everyone reading this blog. I'm Mohd Noor Aman, and I'm a first-year student pursuing a bachelor of computer applications (BCA) or you can say bachelor in science  (computer science). I love tinkering with wire and hardware. [* Although don't short any 2 wire/jumper/pad like me * :) ] I've always wanted to be a part of the open source community. During high school, I had decided that when I get myself enrolled in a college, I'll first aim for GSoC. So here's my first step towards contributing to open source and serving the community. 
 
