@@ -1,4 +1,12 @@
-## Guide, Tips and  Tricks for using GDB
+---
+title: "Guide, Tips and  Tricks for using GDB"
+datePublished: Mon Jun 27 2022 05:33:59 GMT+0000 (Coordinated Universal Time)
+cuid: cl4wb1icn0iwy8unv95d4b0pj
+slug: guide-tips-and-tricks-for-using-gdb
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1656307758388/fZTNxDXZO.png
+tags: cpp, python, opensource, debugging, coding
+
+---
 
 So on today's blog, I'll be talking about how to use GDB with raspberry pi 4 b and with added some lifehacks which will make your debugging go brrrr
 
