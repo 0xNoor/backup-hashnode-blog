@@ -3,6 +3,7 @@ title: "Midterm Evalutions"
 datePublished: Wed Jul 12 2023 15:53:54 GMT+0000 (Coordinated Universal Time)
 cuid: cljzwifrz000e09jkeszghw7l
 slug: midterm-evalutions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689177571025/d375f2eb-619a-42db-99ac-6bf4ee854eeb.jpeg
 tags: gsoc, rtems, gsoc2023
 
 ---
@@ -50,7 +51,7 @@ My goal here is to just create a new minimal DTS for the raspberry pi 4B bsp whi
 
 *Ans:* Technically we could, but it will require access to the raspberry pi videocore mailbox which we dont have support for yet, and we cant ship the DTB's too because of GPL license issue. hence we'll have to rely on the custom DTS which can be used. It will just be a minimal one.
 
-### My updates from all the meetings are compiled here, I'll update them to the RTEMS-GSoC wiki soon.
+## My updates from all the meetings are compiled here, I'll update them to the RTEMS-GSoC wiki soon.
 
 28/06
 
@@ -80,7 +81,7 @@ My goal here is to just create a new minimal DTS for the raspberry pi 4B bsp whi
 
 `Hello everyone, I'm Mohd Noor Aman, A second time gsoc participant, both times with RTEMS. Last year, my project was to bring support for AArch64 raspberry pi 4b. This year, My project further aims to extend the functionality for the BSP, by adding Ethernet and SMP support for the raspberry pi 4b BSP. This is will include taking a reference from RT-thread, a similiar RTOS for the SMP part and importing genet drivers from the freebsd Tree. I have added myself to the contributor table and wrote a blog for the community bond period.`
 
-### My patches which I was doing work on:
+## My patches which I was doing work on:
 
 LIBBSD:
 
